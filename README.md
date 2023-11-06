@@ -1,10 +1,7 @@
 # Power-BI-Project
 
-Live Demo
-
-[view Project Details on Power BI](https://app.fabric.microsoft.com/links/xxmRlA10hz?ctid=ae323139-093a-4d2a-81a6-5d334bcd9019&pbi_source=linkShare)
-
-[another Link](https://app.fabric.microsoft.com/reportEmbed?reportId=c30c84b2-8a39-4b97-88d9-eae1edfbaa96&autoAuth=true&ctid=ae323139-093a-4d2a-81a6-5d334bcd9019)
+Live Demo:
+[View Project Details on Power BI](https://app.fabric.microsoft.com/reportEmbed?reportId=c30c84b2-8a39-4b97-88d9-eae1edfbaa96&autoAuth=true&ctid=ae323139-093a-4d2a-81a6-5d334bcd9019)
 
 Following the recent significant technological advancement, fraudsters have become increasingly easier to committ fraud schemes with tremendous impacts on businesses. It is therefore crucial for businesses to gear themselves up to face such challenges ahead by using various means in data analytics. In this project on fraud detection analysis, Power BI has been used to visualize the basic features of the PaySim synthetic dataset on the routine operation of financial transactions and their associated, if any, malicious behaviour.
 
